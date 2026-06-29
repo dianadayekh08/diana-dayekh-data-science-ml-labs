@@ -3,7 +3,7 @@
 A collection of lab assignments completed as part of **BME 390**, a core 
 biomedical engineering course covering foundational and advanced topics in 
 data science and machine learning. Labs demonstrate hands-on implementation 
-and conceptual understanding across a broad range of methods, including:
+and conceptual understanding across a broad range of methods.
 
 ## Topics Covered
 - Bayes Rule & Statistical Learning
